@@ -13,7 +13,7 @@ The objective of this project is to develop a classification model that can accu
 ## Result
 
 ### Model Selection
-<img width="745" alt="model-selection" src="https://github.com/crypter70/Electric-Vehicle-Type-Classification/assets/74947224/8c7eb3bc-8fce-4a63-bde5-62b51cc7b888">
+<img width="589" alt="models-selection" src="https://github.com/crypter70/Electric-Vehicle-Type-Classification/assets/74947224/913d0fe2-ad2a-4302-91b9-4a970c9d30b9">
 
 ### Confusion Matrix of Random Forest (Best Model)
 ![confusion-matrix](https://github.com/crypter70/Electric-Vehicle-Type-Classification/assets/74947224/b166ccf5-4723-4863-8a43-f4009273fbb4)
