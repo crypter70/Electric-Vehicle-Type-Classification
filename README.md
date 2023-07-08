@@ -16,7 +16,7 @@ The objective of this project is to develop a classification model that can accu
 <img width="589" alt="models-selection" src="https://github.com/crypter70/Electric-Vehicle-Type-Classification/assets/74947224/913d0fe2-ad2a-4302-91b9-4a970c9d30b9">
 
 ### Confusion Matrix of Random Forest (Best Model)
-![confusion-matrix](https://github.com/crypter70/Electric-Vehicle-Type-Classification/assets/74947224/b166ccf5-4723-4863-8a43-f4009273fbb4)
+![hm](https://github.com/crypter70/Electric-Vehicle-Type-Classification/assets/74947224/2b619777-b2ed-4237-b23f-aee2f8569f16)
 
 ### ROC-AUC Curve
 ![roc-auc-curve](https://github.com/crypter70/Electric-Vehicle-Type-Classification/assets/74947224/50c7caf4-8a04-437f-afde-405a76cb495c)
